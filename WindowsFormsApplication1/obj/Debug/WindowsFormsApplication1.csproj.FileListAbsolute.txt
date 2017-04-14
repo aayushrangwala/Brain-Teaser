@@ -1,0 +1,145 @@
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar2.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar3.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar10.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar4.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar5.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar6.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar7.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar8.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar9.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar11.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar12.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar13.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar14.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar15.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar16.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar17.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar18.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar19.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar21.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar20.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar10.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar11.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar12.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar13.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar14.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar15.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar16.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar17.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar18.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar19.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar2.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar20.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar21.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar3.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar4.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar5.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar6.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar7.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar8.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar9.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hellrider\Documents\Visual Studio 2012\Projects\my first project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar10.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar11.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar12.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar13.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar14.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar15.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar16.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar17.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar18.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar19.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar2.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar20.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar21.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar3.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar4.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar5.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar6.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar7.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar8.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar9.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hellrider\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar10.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar11.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar12.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar13.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar14.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar15.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar16.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar17.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar18.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar19.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar2.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar20.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar21.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar3.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar4.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar5.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar6.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar7.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar8.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar9.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hellrider\Desktop\Brain Teaser(code)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar10.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar11.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar12.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar13.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar14.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar15.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar16.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar17.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar18.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar19.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar2.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar20.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar21.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar3.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar4.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar5.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar6.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar7.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar8.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aar9.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Passion Highway\My programming\my projects\Brain Teaser(code) (setup)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

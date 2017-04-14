@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AFA27D11-6F1D-45D9-9919-D7143AF9D487}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aar10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar10.Designer.cs">
+      <DependentUpon>aar10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar11.Designer.cs">
+      <DependentUpon>aar11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar12.Designer.cs">
+      <DependentUpon>aar12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar13.Designer.cs">
+      <DependentUpon>aar13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar14.Designer.cs">
+      <DependentUpon>aar14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar15.Designer.cs">
+      <DependentUpon>aar15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar16.Designer.cs">
+      <DependentUpon>aar16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar17.Designer.cs">
+      <DependentUpon>aar17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar18.Designer.cs">
+      <DependentUpon>aar18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar19.Designer.cs">
+      <DependentUpon>aar19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar2.Designer.cs">
+      <DependentUpon>aar2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar20.Designer.cs">
+      <DependentUpon>aar20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar21.Designer.cs">
+      <DependentUpon>aar21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar3.Designer.cs">
+      <DependentUpon>aar3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar4.Designer.cs">
+      <DependentUpon>aar4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar5.Designer.cs">
+      <DependentUpon>aar5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar6.Designer.cs">
+      <DependentUpon>aar6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar7.Designer.cs">
+      <DependentUpon>aar7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar8.Designer.cs">
+      <DependentUpon>aar8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aar9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aar9.Designer.cs">
+      <DependentUpon>aar9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="aar10.resx">
+      <DependentUpon>aar10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar11.resx">
+      <DependentUpon>aar11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar12.resx">
+      <DependentUpon>aar12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar13.resx">
+      <DependentUpon>aar13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar14.resx">
+      <DependentUpon>aar14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar15.resx">
+      <DependentUpon>aar15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar16.resx">
+      <DependentUpon>aar16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar17.resx">
+      <DependentUpon>aar17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar18.resx">
+      <DependentUpon>aar18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar19.resx">
+      <DependentUpon>aar19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar2.resx">
+      <DependentUpon>aar2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar20.resx">
+      <DependentUpon>aar20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar21.resx">
+      <DependentUpon>aar21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar3.resx">
+      <DependentUpon>aar3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar4.resx">
+      <DependentUpon>aar4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar5.resx">
+      <DependentUpon>aar5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar6.resx">
+      <DependentUpon>aar6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar7.resx">
+      <DependentUpon>aar7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar8.resx">
+      <DependentUpon>aar8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aar9.resx">
+      <DependentUpon>aar9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FRONT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FRONTPAGE.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q5 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FRONTPAGE1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q110.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q61.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q62.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q81.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q91.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q101.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q131.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q141.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q151.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q161.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q171.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q181.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q191.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
